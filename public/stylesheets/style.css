@@ -4,9 +4,10 @@ body {
 }
 
 .hero {
-  background-image: url("/public/stylesheets/images/main-steve.jpg");
-  height: 500px;
-  width: 500px;
-  background-color: black;
-  background-size: auto;
+  background-image: url("/stylesheets/images/main-steve.jpg");
+  height: 400px;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
 }
