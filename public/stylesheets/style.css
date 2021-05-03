@@ -1,0 +1,12 @@
+body {
+  color: blue;
+  background-color: bisque;
+}
+
+.hero {
+  background-image: url("/public/stylesheets/images/main-steve.jpg");
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  background-size: auto;
+}
